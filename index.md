@@ -1,11 +1,7 @@
 ---
-title: "Interesting Forecasting Applications with R"
-author: Name Surname - IE360 - Srping 2020
+title: "Time Series Analysis Progress Journal"
+author: Nuri Çelikel - IE360 - Spring 2020
 ---
-```{r,echo=FALSE,results="hide"}
-library(knitr)
-opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
-```
 
 ## Homework 0
 
